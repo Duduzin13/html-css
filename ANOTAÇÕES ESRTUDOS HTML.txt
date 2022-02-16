@@ -1,0 +1,112 @@
+ imagens sem direitos altorais:
+https://unsplash.com/s/photos/study-person
+https://www.pexels.com/pt-br/
+
+
+
+emojis:
+https://emojipedia.org/people/
+
+
+
+
+videos hospedados em site ficam muito pesados, porém inserindo link de videos não pesaram ]
+
+
+
+
+
+Ordem: font style - font - weight - font size - font family
+
+peso da font: font-weight: normal, bold, bolder, lighter ou 100 - 900
+
+texto justificado: text-align: justify, left, center, right;
+
+modificar afont: font-family: Arial;
+
+outras..: font style
+
+modificar tamanho de afont: font-size
+
+texto subblinhado: text-decoration: underline;
+
+mudar de o texto para a esquerda: style="text-align: right">
+
+
+
+
+sites para cores:
+https://color.adobe.com/pt/explore
+https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+
+
+
+
+Lista de fonts HTML5: Arial
+Times New Roman generico de sites
+Helvética
+Times
+Courier New
+Verdana
+Courier
+Arial Narrow
+Candara
+Geneva
+Calibri
+Optima
+Cambria
+GaramondGaramond
+Perpetua
+Monaco
+Didot
+Brush Script MT
+Lucida Bright
+Copperplate
+
+familia tipografica: 
+light 
+normal 
+seminegrito 
+negrito
+extranegrito
+
+categoria das fontes:
+serifadas
+sans-serif
+serif
+monoespaçadas
+
+Tipos de formatos:
+- opentypw (otf)
+- truetype (ttf)
+
+
+
+
+sites para fonts combinadas e etc..:
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+
+sites para fonts diferenciadas:
+https://www.dafont.com/pt/
+
+align: 
+
+top
+bottom
+middle
+left
+
+
+css:
+
+text-indent espaço par começar um parabgafo 
+
+
+EM HTML É ID = EM CSS É (#)
+EM HTML É CLASS = EM CSS É (.)
+
+
+ALTURA: HEIGHT
+LARGURA: WIDTH
+
+
