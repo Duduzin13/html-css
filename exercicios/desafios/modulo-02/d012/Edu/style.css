@@ -68,7 +68,6 @@ section {
   line-height: 2em;
   padding-left: 30px;
   font-size: 3vw;
-
 }
 
 section.normal {
@@ -78,7 +77,10 @@ section.normal {
 section.imagem {
   background-color: rgb(54, 54, 54);
   color: white;
-
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 section p.separar {
   padding-top: 50px;
@@ -89,12 +91,12 @@ section.imagem > p {
   padding: 5px;
 }
 section.imagem#flor {
-  background: black url(imagens/background001.jpg) center center no-repeat fixed;
-  background-size: cover;
+  background-color: black;
+  background-image: url("imagens/background001.jpg");
 }
 section.imagem#folhas {
-  background: black url(imagens/background002.jpg) center center no-repeat fixed;
-  background-size: cover;
+  background-color: black;
+  background-image: url("imagens/background002.jpg");
 }
 footer {
   font-family: var(--fonte-1);
